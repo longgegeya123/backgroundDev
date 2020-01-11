@@ -1,0 +1,26 @@
+后台管理系统
+一：Home  首页文件夹
+    1：homepage 首页组件
+
+
+二：backstageBox 后台系统整体内容盒子
+  1.headBox 头部文件夹
+     (1)head 头部组件
+
+  2 leftBox 左侧分类整体盒子
+     1 userquenn 用户管理文件夹
+       (1) useritem 用户列表组件
+     2 prwodquenn 权限管理文件夹
+       (1)nameitem 角色列表
+       (2)quennitem 权限列表
+ 
+     3 productquenn 商品管理文件夹
+       (1)productitem 商品列表组件
+       (2)classifysorting 分类参数
+       (3)productclassify 商品分类
+     4 orderquenn 订单管理文件夹
+       (1) orderItem 订单列表
+     5 datastatistics数据统计文件夹
+       statistics 数据报表组件
+   3 rightBox 右侧显示区文件夹
+     1 rightview 右侧组件
